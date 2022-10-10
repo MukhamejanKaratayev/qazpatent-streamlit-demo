@@ -1,0 +1,1 @@
+# qazpatent-streamlit-demo
